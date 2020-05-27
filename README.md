@@ -13,3 +13,9 @@ So, we can check our destination direction first. If it's up, we know we're not 
 
 6/19
 Some good opening thoughts are reflected in the StateDiagram document. Humorously enough, they're reflected as text. 
+
+5/26/20
+Found this old thing..
+Tested some things out to try to remember git.
+Thought more about the problme.
+
